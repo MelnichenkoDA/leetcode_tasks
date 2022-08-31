@@ -1,0 +1,7 @@
+﻿  Scanning sources for module dependencies...
+  TwoSum.ixx
+  Compiling...
+  TwoSum.ixx
+C:\Users\Rusty\source\repos\LeetCode\LeetCode\TwoSum.ixx(5,21): warning C5201: a module declaration can appear only at the start of a translation unit unless a global module fragment is used
+  LeetCode.cpp
+  LeetCode.vcxproj -> C:\Users\Rusty\source\repos\LeetCode\x64\Debug\LeetCode.exe
