@@ -1,7 +1,0 @@
-﻿  BinarySearch.ixx
-C:\Users\Rusty\source\repos\LeetCode\LeetCode\BinarySearch.ixx(3,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\Rusty\source\repos\LeetCode\LeetCode\BinarySearch.ixx(3,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\Rusty\source\repos\LeetCode\LeetCode\BinarySearch.ixx(3,15): error C2146: syntax error: missing ';' before identifier 'BinarySearch'
-C:\Users\Rusty\source\repos\LeetCode\LeetCode\BinarySearch.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-  LeetCode.cpp
-  Generating Code...
