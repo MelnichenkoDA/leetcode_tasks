@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import TwoSum;
+import PivotIndex;
 
 int main()
 {
-    TwoSum::test();
+    PivotIndex::test();
 
     return 0;
 }

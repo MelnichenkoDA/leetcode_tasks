@@ -145,8 +145,11 @@
     <ClCompile Include="Duplicate.ixx" />
     <ClCompile Include="FirstBadVersion.ixx" />
     <ClCompile Include="LeetCode.cpp" />
+    <ClCompile Include="OneDArraySum.ixx" />
+    <ClCompile Include="PivotIndex.ixx" />
     <ClCompile Include="SearchInsertPosition.ixx" />
     <ClCompile Include="TwoSum.ixx" />
+    <ClCompile Include="utils.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
