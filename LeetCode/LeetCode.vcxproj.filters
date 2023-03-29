@@ -42,5 +42,17 @@
     <ClCompile Include="TwoSum.ixx">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="OneDArraySum.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PivotIndex.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessNumberHigherOrLower.ixx">
+      <Filter>Source Files\BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

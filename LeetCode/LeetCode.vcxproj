@@ -144,6 +144,7 @@
     <ClCompile Include="BinarySearch.ixx" />
     <ClCompile Include="Duplicate.ixx" />
     <ClCompile Include="FirstBadVersion.ixx" />
+    <ClCompile Include="GuessNumberHigherOrLower.ixx" />
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="OneDArraySum.ixx" />
     <ClCompile Include="PivotIndex.ixx" />

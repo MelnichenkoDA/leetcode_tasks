@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import PivotIndex;
+import GuessNumberHigherOrLower;
 
 int main()
 {
-    PivotIndex::test();
+    GuessNumberHigherOrLower::test();
 
     return 0;
 }
