@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import SingleNumber;
+import BestTimeToBuyAndSell;
 
 int main()
 {
-    SingleNumber::test();
+    BestTimeToBuyAndSell::test();
 
     return 0;
 }

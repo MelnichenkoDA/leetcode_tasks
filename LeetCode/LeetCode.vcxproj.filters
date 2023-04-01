@@ -22,6 +22,9 @@
     <Filter Include="Source Files\HashTables">
       <UniqueIdentifier>{f3e85248-cb24-443a-912e-9a05d55ef1f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Greedy">
+      <UniqueIdentifier>{609ed548-7d65-41b4-b45b-94e1dc8a3571}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="SingleNumber.ixx">
       <Filter>Source Files\HashTables</Filter>
+    </ClCompile>
+    <ClCompile Include="BestTimeToBuyAndSell.ixx">
+      <Filter>Source Files\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

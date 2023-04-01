@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Anagram.ixx" />
+    <ClCompile Include="BestTimeToBuyAndSell.ixx" />
     <ClCompile Include="BinarySearch.ixx" />
     <ClCompile Include="Duplicate.ixx" />
     <ClCompile Include="FirstBadVersion.ixx" />
