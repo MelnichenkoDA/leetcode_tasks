@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import Search2DMatrix;
+import SingleNumber;
 
 int main()
 {
-    Search2DMatrix::test();
+    SingleNumber::test();
 
     return 0;
 }

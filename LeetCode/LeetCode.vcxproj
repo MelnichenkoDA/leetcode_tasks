@@ -150,6 +150,7 @@
     <ClCompile Include="PivotIndex.ixx" />
     <ClCompile Include="Search2DMatrix.ixx" />
     <ClCompile Include="SearchInsertPosition.ixx" />
+    <ClCompile Include="SingleNumber.ixx" />
     <ClCompile Include="TwoSum.ixx" />
     <ClCompile Include="utils.ixx" />
   </ItemGroup>

@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Arrays">
       <UniqueIdentifier>{4c473a2d-7389-4579-bd73-582fce8d2bcc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\HashTables">
+      <UniqueIdentifier>{f3e85248-cb24-443a-912e-9a05d55ef1f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -56,6 +59,9 @@
     </ClCompile>
     <ClCompile Include="Search2DMatrix.ixx">
       <Filter>Source Files\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleNumber.ixx">
+      <Filter>Source Files\HashTables</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
