@@ -36,5 +36,6 @@ namespace BinarySearch
 		std::cout << search({ -1,0,3,5,9,12 }, 9) << "\n";
 		std::cout << search({ -1,0,3,5,9,12 }, 2) << "\n";
 		std::cout << search({ 5 }, 5) << "\n";
+		std::cout << search({ 1, 3 }, 2) << "\n";
 	}
 }
