@@ -148,6 +148,7 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="OneDArraySum.ixx" />
     <ClCompile Include="PivotIndex.ixx" />
+    <ClCompile Include="Search2DMatrix.ixx" />
     <ClCompile Include="SearchInsertPosition.ixx" />
     <ClCompile Include="TwoSum.ixx" />
     <ClCompile Include="utils.ixx" />

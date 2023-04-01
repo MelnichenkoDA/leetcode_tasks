@@ -54,5 +54,8 @@
     <ClCompile Include="GuessNumberHigherOrLower.ixx">
       <Filter>Source Files\BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="Search2DMatrix.ixx">
+      <Filter>Source Files\BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import GuessNumberHigherOrLower;
+import Search2DMatrix;
 
 int main()
 {
-    GuessNumberHigherOrLower::test();
+    Search2DMatrix::test();
 
     return 0;
 }
