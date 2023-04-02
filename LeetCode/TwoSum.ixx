@@ -1,8 +1,8 @@
-#include <vector>
-#include <cassert>
-#include <map>
-
 export module TwoSum;
+
+import <vector>;
+import <cassert>;
+import <map>;
 
 export 
 namespace TwoSum
