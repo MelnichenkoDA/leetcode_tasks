@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Greedy">
       <UniqueIdentifier>{609ed548-7d65-41b4-b45b-94e1dc8a3571}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Stacks">
+      <UniqueIdentifier>{32565a3b-1608-48a6-9696-f4d2637cfdb3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="BestTimeToBuyAndSell.ixx">
       <Filter>Source Files\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidParentheses.ixx">
+      <Filter>Source Files\Stacks</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

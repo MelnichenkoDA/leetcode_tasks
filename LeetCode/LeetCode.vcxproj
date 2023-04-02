@@ -154,6 +154,7 @@
     <ClCompile Include="SingleNumber.ixx" />
     <ClCompile Include="TwoSum.ixx" />
     <ClCompile Include="utils.ixx" />
+    <ClCompile Include="ValidParentheses.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
