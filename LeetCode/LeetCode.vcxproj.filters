@@ -75,5 +75,8 @@
     <ClCompile Include="ValidParentheses.ixx">
       <Filter>Source Files\Stacks</Filter>
     </ClCompile>
+    <ClCompile Include="FourSum.ixx">
+      <Filter>Source Files\HashTables</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
