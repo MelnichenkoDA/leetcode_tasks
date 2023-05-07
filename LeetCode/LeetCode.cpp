@@ -1,11 +1,11 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import FourSum;
+import PrintInOrder;
 
 int main()
 {
-    FourSum::test();
+    PrintInOrder::test();
 
     return 0;
 }

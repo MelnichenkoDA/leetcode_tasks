@@ -150,6 +150,7 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="OneDArraySum.ixx" />
     <ClCompile Include="PivotIndex.ixx" />
+    <ClCompile Include="concurrency\PrintInOrder.ixx" />
     <ClCompile Include="Search2DMatrix.ixx" />
     <ClCompile Include="SearchInsertPosition.ixx" />
     <ClCompile Include="SingleNumber.ixx" />

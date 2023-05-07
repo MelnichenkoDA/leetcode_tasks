@@ -28,6 +28,9 @@
     <Filter Include="Source Files\Stacks">
       <UniqueIdentifier>{32565a3b-1608-48a6-9696-f4d2637cfdb3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Concurrency">
+      <UniqueIdentifier>{b1b4a5f4-698e-4709-b0d1-ee01cf732e35}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -77,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="FourSum.ixx">
       <Filter>Source Files\HashTables</Filter>
+    </ClCompile>
+    <ClCompile Include="concurrency\PrintInOrder.ixx">
+      <Filter>Source Files\Concurrency</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

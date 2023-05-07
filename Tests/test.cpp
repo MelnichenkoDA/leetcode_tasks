@@ -1,7 +1,5 @@
 #include "pch.h"
 
-import BinarySearch;
-
 int search(const std::vector<int>& nums, int target)
 {
 	int left = 0;
