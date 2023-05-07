@@ -1,11 +1,10 @@
 // LeetCode.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
-import PrintInOrder;
+#include "concurrency/ZeroEvenOdd.h"
 
 int main()
 {
-    PrintInOrder::test();
+    test();
 
     return 0;
 }

@@ -158,6 +158,9 @@
     <ClCompile Include="utils.ixx" />
     <ClCompile Include="ValidParentheses.ixx" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="concurrency\ZeroEvenOdd.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

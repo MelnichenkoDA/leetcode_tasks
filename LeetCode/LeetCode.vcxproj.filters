@@ -85,4 +85,9 @@
       <Filter>Source Files\Concurrency</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="concurrency\ZeroEvenOdd.h">
+      <Filter>Source Files\Concurrency</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
