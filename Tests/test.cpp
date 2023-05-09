@@ -3,7 +3,7 @@
 int search(const std::vector<int>& nums, int target)
 {
 	int left = 0;
-	int right = nums.size() - 1;
+	int right = static_cast<int>(nums.size()) - 1;
 	while (left <= right)
 	{
 		if (nums[left] == target)
