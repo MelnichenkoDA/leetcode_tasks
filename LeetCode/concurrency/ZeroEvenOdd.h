@@ -18,10 +18,9 @@ public:
 
         while (currentLessNum())
         {
-            m_cond.wait(lock, [this] { return m_zero && currentLessNum(); });
+            m_cond.wait(lock, [this] { return m_zero; });
             m_zero = false;
             printNumber(0);
-            ++m_current;
             m_cond.notify_all();
         }
     }
@@ -31,9 +30,9 @@ public:
 
         while (currentLessNum())
         {
-            m_cond.wait(lock, [this] { return (!m_zero && !(checkEven())) && currentLessNum(); });
+            m_cond.wait(lock, [this] { return (!m_zero && checkEven()); });
             m_zero = true;
-            printNumber(m_current);
+            printNumber(++m_current);
             m_cond.notify_all();
         }
     }
@@ -41,18 +40,18 @@ public:
     void odd(std::function<void(int)> printNumber) {
         std::unique_lock lock(m_mutex);
 
-        while(currentLessNum())
+        while (currentLessNum())
         {
-            m_cond.wait(lock, [this] { return (!m_zero && checkEven()) && currentLessNum(); });
+            m_cond.wait(lock, [this] { return (!m_zero && !checkEven()); });
             m_zero = true;
-            printNumber(m_current);
+            printNumber(++m_current);
             m_cond.notify_all();
         }
     }
 
 private:
     bool currentLessNum() const { return m_current <= m_num; }
-    bool checkEven() const { return m_current & 1; }
+    bool checkEven() const { return (m_current & 1) == 0; }
 
     std::condition_variable m_cond;
     std::mutex m_mutex;
@@ -64,7 +63,7 @@ private:
 
 void test()
 {
-    ZeroEvenOdd foo(2);
+    ZeroEvenOdd foo(5);
     auto const func = [](int n) {std::cout << n; };
     std::thread t1(&ZeroEvenOdd::zero, &foo, func);
     std::thread t2(&ZeroEvenOdd::even, &foo, func);
