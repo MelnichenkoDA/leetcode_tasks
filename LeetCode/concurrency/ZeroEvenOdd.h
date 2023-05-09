@@ -33,7 +33,7 @@ public:
 
         while (currentLessNum())
         {
-            m_cond.wait(lock, [this] { return (!m_zero && checkEven()) || !currentLessNum(); });
+            m_cond.wait(lock, [this] { return (!m_zero && !checkEven()) || !currentLessNum(); });
             if (currentLessNum())
             {
                 m_zero = true;
@@ -49,7 +49,7 @@ public:
 
         while (currentLessNum())
         {
-            m_cond.wait(lock, [this] { return (!m_zero && !checkEven()) || !currentLessNum(); });
+            m_cond.wait(lock, [this] { return (!m_zero && checkEven()) || !currentLessNum(); });
             if (currentLessNum())
             {
                 m_zero = true;
