@@ -4,11 +4,19 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="pch.cpp" />
     <ClCompile Include="concurrency\ZeroEvenOddTest.cpp" />
+    <ClCompile Include="arrays\Duplicate.cpp">
+      <Filter>arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="arrays">
+      <UniqueIdentifier>{a64cec36-9be1-410c-902d-e115aceac08f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>

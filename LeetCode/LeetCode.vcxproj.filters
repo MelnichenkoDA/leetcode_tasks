@@ -45,9 +45,6 @@
     <ClCompile Include="SearchInsertPosition.ixx">
       <Filter>Source Files\BinarySearch</Filter>
     </ClCompile>
-    <ClCompile Include="Duplicate.ixx">
-      <Filter>Source Files\Arrays</Filter>
-    </ClCompile>
     <ClCompile Include="Anagram.ixx">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
@@ -83,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="concurrency\PrintInOrder.ixx">
       <Filter>Source Files\Concurrency</Filter>
+    </ClCompile>
+    <ClCompile Include="arrays\Duplicate.h">
+      <Filter>Source Files\Arrays</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

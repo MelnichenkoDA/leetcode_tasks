@@ -5,9 +5,6 @@
 #include <chrono>
 #include <iostream>
 
-export module Duplicate;
-
-export
 namespace Duplicate
 {
 	bool containsDuplicate(std::vector<int> const& nums)
@@ -62,7 +59,7 @@ namespace Duplicate
 		assert(containsDuplicate(fourth) == true);
 		auto end = std::chrono::high_resolution_clock::now();
 
-		double time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
+		auto time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
 		std::cout << "Hash: " << time_taken << "\n";
 	}
 
@@ -80,7 +77,7 @@ namespace Duplicate
 		assert(containsDuplicateWithMap(fourth) == true);
 		auto end = std::chrono::high_resolution_clock::now();
 
-		double time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
+		auto time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
 		std::cout << "Map: " << time_taken << "\n";
 	}
 
@@ -98,7 +95,7 @@ namespace Duplicate
 		assert(containsDuplicateSorted(fourth) == true);
 		auto end = std::chrono::high_resolution_clock::now();
 
-		double time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
+		auto time_taken = std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count();
 		std::cout << "Sort: " << time_taken << "\n";
 	}
 

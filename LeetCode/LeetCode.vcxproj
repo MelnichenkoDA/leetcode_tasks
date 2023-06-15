@@ -141,9 +141,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Anagram.ixx" />
+    <ClCompile Include="arrays\Duplicate.h" />
     <ClCompile Include="BestTimeToBuyAndSell.ixx" />
     <ClCompile Include="BinarySearch.ixx" />
-    <ClCompile Include="Duplicate.ixx" />
     <ClCompile Include="FirstBadVersion.ixx" />
     <ClCompile Include="FourSum.ixx" />
     <ClCompile Include="GuessNumberHigherOrLower.ixx" />
