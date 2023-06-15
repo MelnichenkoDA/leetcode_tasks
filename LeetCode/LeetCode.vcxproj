@@ -159,6 +159,7 @@
     <ClCompile Include="ValidParentheses.ixx" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="arrays\ArrayProductExceptSelf.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

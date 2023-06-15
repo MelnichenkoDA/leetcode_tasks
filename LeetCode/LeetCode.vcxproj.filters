@@ -89,5 +89,8 @@
     <ClInclude Include="concurrency\ZeroEvenOdd.h">
       <Filter>Source Files\Concurrency</Filter>
     </ClInclude>
+    <ClInclude Include="arrays\ArrayProductExceptSelf.h">
+      <Filter>Source Files\Arrays</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
