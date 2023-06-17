@@ -10,6 +10,9 @@
     <ClCompile Include="arrays\ArrayProductExceptSelf.cpp">
       <Filter>arrays</Filter>
     </ClCompile>
+    <ClCompile Include="arrays\TopKFrequent.cpp">
+      <Filter>arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

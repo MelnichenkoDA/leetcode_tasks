@@ -92,5 +92,8 @@
     <ClInclude Include="arrays\ArrayProductExceptSelf.h">
       <Filter>Source Files\Arrays</Filter>
     </ClInclude>
+    <ClInclude Include="arrays\TopKFrequent.h">
+      <Filter>Source Files\Arrays</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
