@@ -13,9 +13,15 @@
     <ClCompile Include="arrays\TopKFrequent.cpp">
       <Filter>arrays</Filter>
     </ClCompile>
+    <ClCompile Include="arrays\LongestConsecutiveSequence.cpp">
+      <Filter>arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="arrays\BigCase.h">
+      <Filter>arrays</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

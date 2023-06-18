@@ -33,11 +33,13 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <ClInclude Include="arrays\BigCase.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arrays\ArrayProductExceptSelf.cpp" />
     <ClCompile Include="arrays\Duplicate.cpp" />
+    <ClCompile Include="arrays\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="arrays\TopKFrequent.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="pch.cpp">
