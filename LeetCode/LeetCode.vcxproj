@@ -154,15 +154,16 @@
     <ClCompile Include="Search2DMatrix.ixx" />
     <ClCompile Include="SearchInsertPosition.ixx" />
     <ClCompile Include="SingleNumber.ixx" />
+    <ClCompile Include="stack\ValidParentheses.ixx" />
     <ClCompile Include="TwoSum.ixx" />
     <ClCompile Include="utils.ixx" />
-    <ClCompile Include="ValidParentheses.ixx" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arrays\ArrayProductExceptSelf.h" />
     <ClInclude Include="arrays\LongestConsecutiveSequence.h" />
     <ClInclude Include="arrays\TopKFrequent.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
+    <ClInclude Include="stack\MinStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

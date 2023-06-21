@@ -72,9 +72,6 @@
     <ClCompile Include="BestTimeToBuyAndSell.ixx">
       <Filter>Source Files\Greedy</Filter>
     </ClCompile>
-    <ClCompile Include="ValidParentheses.ixx">
-      <Filter>Source Files\Stacks</Filter>
-    </ClCompile>
     <ClCompile Include="FourSum.ixx">
       <Filter>Source Files\HashTables</Filter>
     </ClCompile>
@@ -83,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="arrays\Duplicate.h">
       <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="stack\ValidParentheses.ixx">
+      <Filter>Source Files\Stacks</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -97,6 +97,9 @@
     </ClInclude>
     <ClInclude Include="arrays\LongestConsecutiveSequence.h">
       <Filter>Source Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="stack\MinStack.h">
+      <Filter>Source Files\Stacks</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

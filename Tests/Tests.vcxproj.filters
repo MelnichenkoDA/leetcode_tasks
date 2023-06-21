@@ -16,6 +16,9 @@
     <ClCompile Include="arrays\LongestConsecutiveSequence.cpp">
       <Filter>arrays</Filter>
     </ClCompile>
+    <ClCompile Include="stack\MinStack.cpp">
+      <Filter>stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -29,6 +32,9 @@
   <ItemGroup>
     <Filter Include="arrays">
       <UniqueIdentifier>{a64cec36-9be1-410c-902d-e115aceac08f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stack">
+      <UniqueIdentifier>{b56e2b48-f920-4bb3-bce3-ce160ef6980e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
