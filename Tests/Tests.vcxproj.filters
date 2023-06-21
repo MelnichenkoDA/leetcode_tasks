@@ -19,6 +19,9 @@
     <ClCompile Include="stack\MinStack.cpp">
       <Filter>stack</Filter>
     </ClCompile>
+    <ClCompile Include="stack\ReversePolish.cpp">
+      <Filter>stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

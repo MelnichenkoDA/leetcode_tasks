@@ -164,6 +164,7 @@
     <ClInclude Include="arrays\TopKFrequent.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
     <ClInclude Include="stack\MinStack.h" />
+    <ClInclude Include="stack\ReversePolish.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

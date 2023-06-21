@@ -101,5 +101,8 @@
     <ClInclude Include="stack\MinStack.h">
       <Filter>Source Files\Stacks</Filter>
     </ClInclude>
+    <ClInclude Include="stack\ReversePolish.h">
+      <Filter>Source Files\Stacks</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
