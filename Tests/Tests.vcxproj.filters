@@ -22,6 +22,9 @@
     <ClCompile Include="stack\ReversePolish.cpp">
       <Filter>stack</Filter>
     </ClCompile>
+    <ClCompile Include="stack\GenerateParentheses.cpp">
+      <Filter>stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

@@ -41,6 +41,7 @@
     <ClCompile Include="arrays\Duplicate.cpp" />
     <ClCompile Include="arrays\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="arrays\TopKFrequent.cpp" />
+    <ClCompile Include="stack\GenerateParentheses.cpp" />
     <ClCompile Include="stack\MinStack.cpp" />
     <ClCompile Include="stack\ReversePolish.cpp" />
     <ClCompile Include="test.cpp" />

@@ -104,5 +104,8 @@
     <ClInclude Include="stack\ReversePolish.h">
       <Filter>Source Files\Stacks</Filter>
     </ClInclude>
+    <ClInclude Include="stack\GenerateParentheses.h">
+      <Filter>Source Files\Stacks</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
