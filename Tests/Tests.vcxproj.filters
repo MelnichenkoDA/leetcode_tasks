@@ -25,11 +25,17 @@
     <ClCompile Include="stack\GenerateParentheses.cpp">
       <Filter>stack</Filter>
     </ClCompile>
+    <ClCompile Include="stack\DailyTemperatures.cpp">
+      <Filter>stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
     <ClInclude Include="arrays\BigCase.h">
       <Filter>arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\checks.h">
+      <Filter>utils</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -41,6 +47,9 @@
     </Filter>
     <Filter Include="stack">
       <UniqueIdentifier>{b56e2b48-f920-4bb3-bce3-ce160ef6980e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{74ed5f73-6bb5-432c-a8b8-cc6d2c477da2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

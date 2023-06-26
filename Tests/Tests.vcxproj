@@ -35,12 +35,14 @@
   <ItemGroup>
     <ClInclude Include="arrays\BigCase.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="utils\checks.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arrays\ArrayProductExceptSelf.cpp" />
     <ClCompile Include="arrays\Duplicate.cpp" />
     <ClCompile Include="arrays\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="arrays\TopKFrequent.cpp" />
+    <ClCompile Include="stack\DailyTemperatures.cpp" />
     <ClCompile Include="stack\GenerateParentheses.cpp" />
     <ClCompile Include="stack\MinStack.cpp" />
     <ClCompile Include="stack\ReversePolish.cpp" />
