@@ -42,6 +42,7 @@
     <ClCompile Include="arrays\Duplicate.cpp" />
     <ClCompile Include="arrays\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="arrays\TopKFrequent.cpp" />
+    <ClCompile Include="stack\CarFleet.cpp" />
     <ClCompile Include="stack\DailyTemperatures.cpp" />
     <ClCompile Include="stack\GenerateParentheses.cpp" />
     <ClCompile Include="stack\MinStack.cpp" />

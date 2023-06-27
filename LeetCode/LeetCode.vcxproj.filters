@@ -110,5 +110,8 @@
     <ClInclude Include="stack\DailyTemperatures.h">
       <Filter>Source Files\Stacks</Filter>
     </ClInclude>
+    <ClInclude Include="stack\CarFleet.h">
+      <Filter>Source Files\Stacks</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

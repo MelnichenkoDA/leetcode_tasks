@@ -28,6 +28,9 @@
     <ClCompile Include="stack\DailyTemperatures.cpp">
       <Filter>stack</Filter>
     </ClCompile>
+    <ClCompile Include="stack\CarFleet.cpp">
+      <Filter>stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
