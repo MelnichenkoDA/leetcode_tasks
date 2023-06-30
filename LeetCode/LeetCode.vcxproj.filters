@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Concurrency">
       <UniqueIdentifier>{b1b4a5f4-698e-4709-b0d1-ee01cf732e35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\two_pointers">
+      <UniqueIdentifier>{afff3f02-3782-422b-bdfa-7ea0ddf9c0de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -112,6 +115,9 @@
     </ClInclude>
     <ClInclude Include="stack\CarFleet.h">
       <Filter>Source Files\Stacks</Filter>
+    </ClInclude>
+    <ClInclude Include="two_pointers\palindrome.h">
+      <Filter>Source Files\two_pointers</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

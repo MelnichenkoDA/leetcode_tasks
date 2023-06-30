@@ -55,6 +55,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="concurrency\ZeroEvenOddTest.cpp" />
+    <ClCompile Include="two_pointers\palindrome.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.vcxproj">
