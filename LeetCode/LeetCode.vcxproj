@@ -168,6 +168,7 @@
     <ClInclude Include="stack\GenerateParentheses.h" />
     <ClInclude Include="stack\MinStack.h" />
     <ClInclude Include="stack\ReversePolish.h" />
+    <ClInclude Include="two_pointers\ContainerWithMostWater.h" />
     <ClInclude Include="two_pointers\palindrome.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

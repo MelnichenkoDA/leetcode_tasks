@@ -34,6 +34,9 @@
     <ClCompile Include="two_pointers\palindrome.cpp">
       <Filter>two_pointers</Filter>
     </ClCompile>
+    <ClCompile Include="two_pointers\ContainerWithMostWater.cpp">
+      <Filter>two_pointers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
