@@ -37,6 +37,9 @@
     <ClCompile Include="two_pointers\ContainerWithMostWater.cpp">
       <Filter>two_pointers</Filter>
     </ClCompile>
+    <ClCompile Include="design\RangeSumQuery.cpp">
+      <Filter>design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -62,6 +65,9 @@
     </Filter>
     <Filter Include="two_pointers">
       <UniqueIdentifier>{7ff80b85-c997-4507-ace8-3dda76c0d0c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="design">
+      <UniqueIdentifier>{0b030523-84ee-4033-8b16-c3774332463a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

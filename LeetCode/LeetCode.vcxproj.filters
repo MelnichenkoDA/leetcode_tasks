@@ -34,6 +34,9 @@
     <Filter Include="Source Files\two_pointers">
       <UniqueIdentifier>{afff3f02-3782-422b-bdfa-7ea0ddf9c0de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\design">
+      <UniqueIdentifier>{36e8de7c-21f3-43e0-86ee-850d63b808ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -121,6 +124,9 @@
     </ClInclude>
     <ClInclude Include="two_pointers\ContainerWithMostWater.h">
       <Filter>Source Files\two_pointers</Filter>
+    </ClInclude>
+    <ClInclude Include="design\RangeSumQuery.h">
+      <Filter>Source Files\design</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
