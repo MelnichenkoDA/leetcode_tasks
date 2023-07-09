@@ -3,7 +3,6 @@
   <ItemGroup>
     <ClCompile Include="test.cpp" />
     <ClCompile Include="pch.cpp" />
-    <ClCompile Include="concurrency\ZeroEvenOddTest.cpp" />
     <ClCompile Include="arrays\Duplicate.cpp">
       <Filter>arrays</Filter>
     </ClCompile>
@@ -40,6 +39,12 @@
     <ClCompile Include="design\RangeSumQuery.cpp">
       <Filter>design</Filter>
     </ClCompile>
+    <ClCompile Include="concurrency\ZeroEvenOddTest.cpp">
+      <Filter>concurrency</Filter>
+    </ClCompile>
+    <ClCompile Include="concurrency\PrintFooBarAlternately.cpp">
+      <Filter>concurrency</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -68,6 +73,9 @@
     </Filter>
     <Filter Include="design">
       <UniqueIdentifier>{0b030523-84ee-4033-8b16-c3774332463a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="concurrency">
+      <UniqueIdentifier>{abf37cac-50e8-4595-b1a0-68312bd80149}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

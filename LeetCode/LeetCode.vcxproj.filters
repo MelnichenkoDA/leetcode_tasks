@@ -128,5 +128,8 @@
     <ClInclude Include="design\RangeSumQuery.h">
       <Filter>Source Files\design</Filter>
     </ClInclude>
+    <ClInclude Include="concurrency\PrintFooBarAlternately.h">
+      <Filter>Source Files\Concurrency</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
