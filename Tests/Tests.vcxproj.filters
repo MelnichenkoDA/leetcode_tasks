@@ -45,6 +45,9 @@
     <ClCompile Include="concurrency\PrintFooBarAlternately.cpp">
       <Filter>concurrency</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search\MinimumInRotatedSortedArray.cpp">
+      <Filter>BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -76,6 +79,9 @@
     </Filter>
     <Filter Include="concurrency">
       <UniqueIdentifier>{abf37cac-50e8-4595-b1a0-68312bd80149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinarySearch">
+      <UniqueIdentifier>{2df52955-c224-4b8a-ade8-c9c6ccb143aa}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

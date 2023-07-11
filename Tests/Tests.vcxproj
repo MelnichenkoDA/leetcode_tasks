@@ -42,6 +42,7 @@
     <ClCompile Include="arrays\Duplicate.cpp" />
     <ClCompile Include="arrays\LongestConsecutiveSequence.cpp" />
     <ClCompile Include="arrays\TopKFrequent.cpp" />
+    <ClCompile Include="binary_search\MinimumInRotatedSortedArray.cpp" />
     <ClCompile Include="concurrency\PrintFooBarAlternately.cpp" />
     <ClCompile Include="design\RangeSumQuery.cpp" />
     <ClCompile Include="stack\CarFleet.cpp" />

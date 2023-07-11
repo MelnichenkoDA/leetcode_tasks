@@ -131,5 +131,8 @@
     <ClInclude Include="concurrency\PrintFooBarAlternately.h">
       <Filter>Source Files\Concurrency</Filter>
     </ClInclude>
+    <ClInclude Include="binary_search\MinimumInRotatedSortedArray.h">
+      <Filter>Source Files\BinarySearch</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
