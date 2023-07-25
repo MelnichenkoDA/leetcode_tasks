@@ -48,6 +48,9 @@
     <ClCompile Include="binary_search\MinimumInRotatedSortedArray.cpp">
       <Filter>BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="math\RotateImage.cpp">
+      <Filter>math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -82,6 +85,9 @@
     </Filter>
     <Filter Include="BinarySearch">
       <UniqueIdentifier>{2df52955-c224-4b8a-ade8-c9c6ccb143aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="math">
+      <UniqueIdentifier>{555df052-3a70-49f7-a7b6-c0b96526a5aa}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

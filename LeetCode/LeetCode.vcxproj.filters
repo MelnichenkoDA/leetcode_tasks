@@ -37,6 +37,9 @@
     <Filter Include="Source Files\design">
       <UniqueIdentifier>{36e8de7c-21f3-43e0-86ee-850d63b808ec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\math">
+      <UniqueIdentifier>{b2498d37-b86f-491b-85e4-c90ce1ce82ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -133,6 +136,9 @@
     </ClInclude>
     <ClInclude Include="binary_search\MinimumInRotatedSortedArray.h">
       <Filter>Source Files\BinarySearch</Filter>
+    </ClInclude>
+    <ClInclude Include="math\RotateImage.h">
+      <Filter>Source Files\math</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
