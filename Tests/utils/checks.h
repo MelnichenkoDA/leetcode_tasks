@@ -24,4 +24,10 @@ namespace checks
 
 		return true;
 	}
+
+	template<typename T>
+	bool checkMatrixEqual(std::vector<std::vector<T>> const &matr, std::vector<std::vector<T>> const &res)
+	{
+		return std::ranges::all_of(matr, [&res](auto const& test) { return std::ranges::contains(res, test); });
+	}
 }

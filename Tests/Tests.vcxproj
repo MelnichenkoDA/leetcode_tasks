@@ -46,6 +46,7 @@
     <ClCompile Include="concurrency\PrintFooBarAlternately.cpp" />
     <ClCompile Include="design\RangeSumQuery.cpp" />
     <ClCompile Include="math\RotateImage.cpp" />
+    <ClCompile Include="math\SetMatrixZeroes.cpp" />
     <ClCompile Include="stack\CarFleet.cpp" />
     <ClCompile Include="stack\DailyTemperatures.cpp" />
     <ClCompile Include="stack\GenerateParentheses.cpp" />

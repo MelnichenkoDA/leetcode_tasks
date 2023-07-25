@@ -51,6 +51,9 @@
     <ClCompile Include="math\RotateImage.cpp">
       <Filter>math</Filter>
     </ClCompile>
+    <ClCompile Include="math\SetMatrixZeroes.cpp">
+      <Filter>math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

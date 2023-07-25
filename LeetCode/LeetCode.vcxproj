@@ -167,6 +167,7 @@
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
     <ClInclude Include="design\RangeSumQuery.h" />
     <ClInclude Include="math\RotateImage.h" />
+    <ClInclude Include="math\SetMatrixZeroes.h" />
     <ClInclude Include="stack\CarFleet.h" />
     <ClInclude Include="stack\DailyTemperatures.h" />
     <ClInclude Include="stack\GenerateParentheses.h" />

@@ -140,5 +140,8 @@
     <ClInclude Include="math\RotateImage.h">
       <Filter>Source Files\math</Filter>
     </ClInclude>
+    <ClInclude Include="math\SetMatrixZeroes.h">
+      <Filter>Source Files\math</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
