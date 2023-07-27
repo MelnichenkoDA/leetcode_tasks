@@ -166,6 +166,8 @@
     <ClInclude Include="concurrency\PrintFooBarAlternately.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
     <ClInclude Include="design\RangeSumQuery.h" />
+    <ClInclude Include="linked_list\ListNode.h" />
+    <ClInclude Include="linked_list\MergeTwoSortedLists.h" />
     <ClInclude Include="math\RotateImage.h" />
     <ClInclude Include="math\SetMatrixZeroes.h" />
     <ClInclude Include="stack\CarFleet.h" />

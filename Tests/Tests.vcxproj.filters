@@ -54,6 +54,9 @@
     <ClCompile Include="math\SetMatrixZeroes.cpp">
       <Filter>math</Filter>
     </ClCompile>
+    <ClCompile Include="linked_lists\MergeTwoSortedLists.cpp">
+      <Filter>LinkedLists</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -91,6 +94,9 @@
     </Filter>
     <Filter Include="math">
       <UniqueIdentifier>{555df052-3a70-49f7-a7b6-c0b96526a5aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LinkedLists">
+      <UniqueIdentifier>{6907d346-e5aa-4319-8f53-a71d6526b488}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
