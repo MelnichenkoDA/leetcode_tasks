@@ -152,5 +152,8 @@
     <ClInclude Include="linked_list\ListNode.h">
       <Filter>Source Files\LinkedLists</Filter>
     </ClInclude>
+    <ClInclude Include="design\ParkingSystem.h">
+      <Filter>Source Files\design</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

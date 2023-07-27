@@ -57,6 +57,9 @@
     <ClCompile Include="linked_lists\MergeTwoSortedLists.cpp">
       <Filter>LinkedLists</Filter>
     </ClCompile>
+    <ClCompile Include="design\ParkingSysten.cpp">
+      <Filter>design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
