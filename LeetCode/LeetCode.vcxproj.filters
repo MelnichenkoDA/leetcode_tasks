@@ -155,5 +155,8 @@
     <ClInclude Include="design\ParkingSystem.h">
       <Filter>Source Files\design</Filter>
     </ClInclude>
+    <ClInclude Include="design\OrderedStream.h">
+      <Filter>Source Files\design</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

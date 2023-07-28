@@ -165,6 +165,7 @@
     <ClInclude Include="binary_search\MinimumInRotatedSortedArray.h" />
     <ClInclude Include="concurrency\PrintFooBarAlternately.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />
+    <ClInclude Include="design\OrderedStream.h" />
     <ClInclude Include="design\ParkingSystem.h" />
     <ClInclude Include="design\RangeSumQuery.h" />
     <ClInclude Include="linked_list\ListNode.h" />

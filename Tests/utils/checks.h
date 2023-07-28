@@ -26,6 +26,12 @@ namespace checks
 	}
 
 	template<typename T>
+	bool checkEqualStrong(std::vector<T> const& left, std::vector<T> const& right)
+	{
+		return left == right;
+	}
+
+	template<typename T>
 	bool checkMatrixEqual(std::vector<std::vector<T>> const &matr, std::vector<std::vector<T>> const &res)
 	{
 		return std::ranges::all_of(matr, [&res](auto const& test) { return std::ranges::contains(res, test); });

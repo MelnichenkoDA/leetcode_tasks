@@ -60,6 +60,9 @@
     <ClCompile Include="design\ParkingSysten.cpp">
       <Filter>design</Filter>
     </ClCompile>
+    <ClCompile Include="design\OrderedStream.cpp">
+      <Filter>design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
