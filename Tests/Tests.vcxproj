@@ -44,6 +44,7 @@
     <ClCompile Include="arrays\TopKFrequent.cpp" />
     <ClCompile Include="binary_search\MinimumInRotatedSortedArray.cpp" />
     <ClCompile Include="concurrency\PrintFooBarAlternately.cpp" />
+    <ClCompile Include="design\HashSet.cpp" />
     <ClCompile Include="design\OrderedStream.cpp" />
     <ClCompile Include="design\ParkingSysten.cpp" />
     <ClCompile Include="design\RangeSumQuery.cpp" />

@@ -158,5 +158,8 @@
     <ClInclude Include="design\OrderedStream.h">
       <Filter>Source Files\design</Filter>
     </ClInclude>
+    <ClInclude Include="design\HashSet.h">
+      <Filter>Source Files\design</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

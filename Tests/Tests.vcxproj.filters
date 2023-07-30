@@ -63,6 +63,9 @@
     <ClCompile Include="design\OrderedStream.cpp">
       <Filter>design</Filter>
     </ClCompile>
+    <ClCompile Include="design\HashSet.cpp">
+      <Filter>design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
