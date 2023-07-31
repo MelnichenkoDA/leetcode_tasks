@@ -161,5 +161,8 @@
     <ClInclude Include="design\HashSet.h">
       <Filter>Source Files\design</Filter>
     </ClInclude>
+    <ClInclude Include="design\HashMap.h">
+      <Filter>Source Files\design</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

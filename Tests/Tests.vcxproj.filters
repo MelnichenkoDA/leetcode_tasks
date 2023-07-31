@@ -66,6 +66,9 @@
     <ClCompile Include="design\HashSet.cpp">
       <Filter>design</Filter>
     </ClCompile>
+    <ClCompile Include="design\HashMap.cpp">
+      <Filter>design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
