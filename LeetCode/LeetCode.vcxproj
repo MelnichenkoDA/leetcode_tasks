@@ -162,6 +162,7 @@
     <ClInclude Include="arrays\ArrayProductExceptSelf.h" />
     <ClInclude Include="arrays\LongestConsecutiveSequence.h" />
     <ClInclude Include="arrays\TopKFrequent.h" />
+    <ClInclude Include="binary_search\KokoEatingBananas.h" />
     <ClInclude Include="binary_search\MinimumInRotatedSortedArray.h" />
     <ClInclude Include="concurrency\PrintFooBarAlternately.h" />
     <ClInclude Include="concurrency\ZeroEvenOdd.h" />

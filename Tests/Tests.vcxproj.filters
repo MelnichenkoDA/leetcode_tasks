@@ -69,6 +69,9 @@
     <ClCompile Include="design\HashMap.cpp">
       <Filter>design</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search\KokoEatingBananas.cpp">
+      <Filter>BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

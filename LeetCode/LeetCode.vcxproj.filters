@@ -164,5 +164,8 @@
     <ClInclude Include="design\HashMap.h">
       <Filter>Source Files\design</Filter>
     </ClInclude>
+    <ClInclude Include="binary_search\KokoEatingBananas.h">
+      <Filter>Source Files\BinarySearch</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
