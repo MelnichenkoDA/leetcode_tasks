@@ -78,6 +78,9 @@
     <ClCompile Include="sliding_window\MaximumAverageSubarrayI.cpp">
       <Filter>sliding_window</Filter>
     </ClCompile>
+    <ClCompile Include="math\PowerOfTwo.cpp">
+      <Filter>math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

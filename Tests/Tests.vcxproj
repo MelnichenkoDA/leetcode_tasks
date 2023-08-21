@@ -52,6 +52,7 @@
     <ClCompile Include="design\ParkingSysten.cpp" />
     <ClCompile Include="design\RangeSumQuery.cpp" />
     <ClCompile Include="linked_lists\MergeTwoSortedLists.cpp" />
+    <ClCompile Include="math\PowerOfTwo.cpp" />
     <ClCompile Include="math\RotateImage.cpp" />
     <ClCompile Include="math\SetMatrixZeroes.cpp" />
     <ClCompile Include="sliding_window\MaximumAverageSubarrayI.cpp" />
