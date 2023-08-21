@@ -75,6 +75,9 @@
     <ClCompile Include="binary_search\SearchInRotatedSortedArray.cpp">
       <Filter>BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="sliding_window\MaximumAverageSubarrayI.cpp">
+      <Filter>sliding_window</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -115,6 +118,9 @@
     </Filter>
     <Filter Include="LinkedLists">
       <UniqueIdentifier>{6907d346-e5aa-4319-8f53-a71d6526b488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sliding_window">
+      <UniqueIdentifier>{5d2a7d9f-d6ff-45d7-9535-981e5b06b96e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

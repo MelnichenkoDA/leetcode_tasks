@@ -43,6 +43,9 @@
     <Filter Include="Source Files\LinkedLists">
       <UniqueIdentifier>{a922d71d-0947-48d8-b04e-db9b6c0f3667}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\sliding_window">
+      <UniqueIdentifier>{f95bf3fb-6f0f-4a66-acbf-567abe20e297}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -169,6 +172,9 @@
     </ClInclude>
     <ClInclude Include="binary_search\SearchInRotatedSortedArray.h">
       <Filter>Source Files\BinarySearch</Filter>
+    </ClInclude>
+    <ClInclude Include="sliding_window\MaximumAverageSubarrayI.h">
+      <Filter>Source Files\sliding_window</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

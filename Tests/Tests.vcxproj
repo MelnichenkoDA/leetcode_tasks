@@ -54,6 +54,7 @@
     <ClCompile Include="linked_lists\MergeTwoSortedLists.cpp" />
     <ClCompile Include="math\RotateImage.cpp" />
     <ClCompile Include="math\SetMatrixZeroes.cpp" />
+    <ClCompile Include="sliding_window\MaximumAverageSubarrayI.cpp" />
     <ClCompile Include="stack\CarFleet.cpp" />
     <ClCompile Include="stack\DailyTemperatures.cpp" />
     <ClCompile Include="stack\GenerateParentheses.cpp" />

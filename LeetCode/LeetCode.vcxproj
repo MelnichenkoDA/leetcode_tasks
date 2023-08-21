@@ -176,6 +176,7 @@
     <ClInclude Include="linked_list\MergeTwoSortedLists.h" />
     <ClInclude Include="math\RotateImage.h" />
     <ClInclude Include="math\SetMatrixZeroes.h" />
+    <ClInclude Include="sliding_window\MaximumAverageSubarrayI.h" />
     <ClInclude Include="stack\CarFleet.h" />
     <ClInclude Include="stack\DailyTemperatures.h" />
     <ClInclude Include="stack\GenerateParentheses.h" />
