@@ -72,6 +72,9 @@
     <ClCompile Include="binary_search\KokoEatingBananas.cpp">
       <Filter>BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search\SearchInRotatedSortedArray.cpp">
+      <Filter>BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

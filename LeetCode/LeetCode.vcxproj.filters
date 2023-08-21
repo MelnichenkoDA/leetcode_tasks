@@ -167,5 +167,8 @@
     <ClInclude Include="binary_search\KokoEatingBananas.h">
       <Filter>Source Files\BinarySearch</Filter>
     </ClInclude>
+    <ClInclude Include="binary_search\SearchInRotatedSortedArray.h">
+      <Filter>Source Files\BinarySearch</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
