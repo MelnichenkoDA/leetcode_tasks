@@ -81,6 +81,9 @@
     <ClCompile Include="math\PowerOfTwo.cpp">
       <Filter>math</Filter>
     </ClCompile>
+    <ClCompile Include="sliding_window\LongestSubstringWithoutRepeatingCharacters.cpp">
+      <Filter>sliding_window</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
