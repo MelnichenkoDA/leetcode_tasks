@@ -84,6 +84,9 @@
     <ClCompile Include="sliding_window\LongestSubstringWithoutRepeatingCharacters.cpp">
       <Filter>sliding_window</Filter>
     </ClCompile>
+    <ClCompile Include="matrices\SumInMatrix.cpp">
+      <Filter>matrices</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -127,6 +130,9 @@
     </Filter>
     <Filter Include="sliding_window">
       <UniqueIdentifier>{5d2a7d9f-d6ff-45d7-9535-981e5b06b96e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="matrices">
+      <UniqueIdentifier>{5d88551e-3475-4ab6-bfd9-fe20624cb9dc}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -46,6 +46,9 @@
     <Filter Include="Source Files\sliding_window">
       <UniqueIdentifier>{f95bf3fb-6f0f-4a66-acbf-567abe20e297}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\matrices">
+      <UniqueIdentifier>{872d52c2-62b6-44d8-890a-d4b57892f849}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp">
@@ -181,6 +184,9 @@
     </ClInclude>
     <ClInclude Include="sliding_window\LongestSubstringWithoutRepeatingCharacters.h">
       <Filter>Source Files\sliding_window</Filter>
+    </ClInclude>
+    <ClInclude Include="matrices\SumInMatrix.h">
+      <Filter>Source Files\matrices</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

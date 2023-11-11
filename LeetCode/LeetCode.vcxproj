@@ -177,6 +177,7 @@
     <ClInclude Include="math\PowerOfTwo.h" />
     <ClInclude Include="math\RotateImage.h" />
     <ClInclude Include="math\SetMatrixZeroes.h" />
+    <ClInclude Include="matrices\SumInMatrix.h" />
     <ClInclude Include="sliding_window\LongestSubstringWithoutRepeatingCharacters.h" />
     <ClInclude Include="sliding_window\MaximumAverageSubarrayI.h" />
     <ClInclude Include="stack\CarFleet.h" />
