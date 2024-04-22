@@ -1,6 +1,7 @@
 #pragma once
 #include <functional>
 #include <atomic>
+#include <thread>
 
 namespace concurrency
 {

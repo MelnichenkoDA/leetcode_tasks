@@ -4,6 +4,7 @@
 #include <map>
 #include <chrono>
 #include <iostream>
+#include <algorithm>
 
 namespace Duplicate
 {
